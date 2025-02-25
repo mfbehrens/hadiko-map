@@ -1,9 +1,13 @@
-# HaDiKo Karte
+# HaDiKo Geländeplan
 
-## Requirements
+![Plan des Gelände des HaDiKos](./HaDiKo%20Plan.svg)
 
-- Inkscape
-- Fonts:
+*Geländeplan des HaDiKos*
+
+## Anforderungen
+
+- Inkscape (zuletzt bearbeitet mit v1.4)
+- Schriftarten:
   - Open Sans
   - Roboto
 
