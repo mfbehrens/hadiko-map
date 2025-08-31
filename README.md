@@ -16,6 +16,9 @@
 - Schatten
   - Offset
     - x: 9mm, y: 3mm
+  - Damit Schatten in Inkscape richtig gerendert werden können,
+    muss in den Einstellungen (Bearbeiten > Einstellungen > Rending)
+    "Filter effects quality" auf "Best quality" gesetzt werden
 - Texturen
   - Texturen sind als JPGs mit 60% Qualität eingebettet
   - Parkplätze sind mit Array-Effekten realisiert
